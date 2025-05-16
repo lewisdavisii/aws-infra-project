@@ -69,6 +69,7 @@ aws-infra-terraform/
    - Run scripts:
      - `python upload_to_s3.py`
      - `python invoke_lambda.py`
+     - `python list_ec2_instances.py`
 
 ---
 
